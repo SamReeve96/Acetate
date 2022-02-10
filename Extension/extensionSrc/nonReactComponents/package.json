@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/chrome": "0.0.122",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "typescript": "^4.0.3"
   },
   "devDependencies": {
